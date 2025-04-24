@@ -1,8 +1,19 @@
+<!-- Add this in your GitHub README.md using HTML -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="400" height="400"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohit Joshi</h1>
-<h3 align="center">A Passionate Full Stack Developer with 1+ Year Experience</h3>
+<h3 align="center">
+  Full Stack Developer | MERN Stack | Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Backend+%26+Frontend+Developer;Java+%7C+Spring+Boot+%7C+React;MongoDB+%7C+Node.js+%7C+REST+APIs;Problem+Solver+%7C+MERN+Stack+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=37B8FF&lines=React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Frontend+%2B+Backend+Developer;I+Love+Building+APIs+%26+Web+Apps+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
