@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=37B8FF&lines=React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Frontend+%2B+Backend+Developer;I+Love+Building+APIs+%26+Web+Apps+%F0%9F%92%BB" alt="Typing SVG" height="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=37B8FF&lines=React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Frontend+%2B+Backend+Developer;I+Love+Building+APIs+%26+Web+Apps+%F0%9F%92%BB" alt="Typing SVG"  />
 </p>
 
 <p align="center">
